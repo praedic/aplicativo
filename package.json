@@ -1,0 +1,12 @@
+{
+  "name": "meu-aplicativo",
+  "version": "1.0.0",
+  "description": "Um simples aplicativo estático",
+  "main": "message.html",
+  "scripts": {
+    "build": "cp message.html build/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
