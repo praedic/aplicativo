@@ -4,7 +4,7 @@
   "description": "Um simples aplicativo estático",
   "main": "message.html",
   "scripts": {
-    "build": "cp message.html build/"
+    "build": "mkdir -p build && cp message.html build/"
   },
   "keywords": [],
   "author": "",
